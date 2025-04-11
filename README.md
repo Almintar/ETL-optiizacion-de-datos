@@ -26,7 +26,7 @@ Adicionalmente, el proyecto genera una carpeta llamada `archivos nuevos` donde s
 
 ---
 
-# Resumen del formato del día
+# Resumen del formato del día de la NOAA (GHCN-D)
 
 Los archivos anuales están formateados para que cada observación esté representada por una sola fila con los siguientes campos:
 
