@@ -17,7 +17,6 @@ Adicionalmente, el proyecto genera una carpeta llamada `archivos nuevos` donde s
 
 - Python 3.x
 - pandas
-- boto3
 - AWS S3 (simulado localmente)
 - Gestión de dependencias con `requirements.txt`
 
