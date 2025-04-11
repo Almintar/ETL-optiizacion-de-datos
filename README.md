@@ -19,6 +19,8 @@ Adicionalmente, el proyecto genera una carpeta llamada `archivos nuevos` donde s
 ```bash
 git clone https://github.com/Almintar/ETL-optimización de datos.git
 
+---
+
 # Resumen del formato del día
 
 Los archivos anuales están formateados para que cada observación esté representada por una sola fila con los siguientes campos:
