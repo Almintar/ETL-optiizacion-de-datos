@@ -23,19 +23,8 @@ Adicionalmente, el proyecto genera una carpeta llamada `archivos nuevos` donde s
 
 ---
 
----
-
-## Instalación
-
-1. Clona este repositorio:
-```bash
-git clone https://github.com/Almintar/ETL-optimización de datos.git
 
 ---
-# Proyecto ETL - Optimización de Base de Datos desde Archivo CSV
-
-## Descripción del Proyecto
-
 
 # Resumen del formato del día
 
