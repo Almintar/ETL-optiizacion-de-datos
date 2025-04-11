@@ -13,6 +13,18 @@ Adicionalmente, el proyecto genera una carpeta llamada `archivos nuevos` donde s
 
 ---
 
+## Tecnologías utilizadas
+
+- Python 3.x
+- pandas
+- boto3
+- AWS S3 (simulado localmente)
+- Gestión de dependencias con `requirements.txt`
+
+---
+
+---
+
 ## Instalación
 
 1. Clona este repositorio:
@@ -20,6 +32,10 @@ Adicionalmente, el proyecto genera una carpeta llamada `archivos nuevos` donde s
 git clone https://github.com/Almintar/ETL-optimización de datos.git
 
 ---
+# Proyecto ETL - Optimización de Base de Datos desde Archivo CSV
+
+## Descripción del Proyecto
+
 
 # Resumen del formato del día
 
